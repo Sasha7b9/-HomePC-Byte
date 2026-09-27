@@ -3,7 +3,7 @@
 
 archive.zip
 
-Byte/OsciSTM32/sources/Device/DebugConfig/*
-Byte/OsciSTM32/sources/Device/Listings-Debug/*
-Byte/OsciSTM32/sources/Device/Objects-Debug/*
-Byte/OsciSTM32/sources/generated/*
+OsciSTM32/sources/Device/DebugConfig/*
+OsciSTM32/sources/Device/Listings-Debug/*
+OsciSTM32/sources/Device/Objects-Debug/*
+OsciSTM32/sources/generated/*
